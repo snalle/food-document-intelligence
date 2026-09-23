@@ -24,10 +24,10 @@ The benchmark will investigate tools representing different approaches to docume
 ### Local / Open-source
 
 - PyMuPDF — lightweight PDF text and layout extraction (https://github.com/pymupdf/pymupdf)
-- PyMuPDF4LLM - ... (https://github.com/pymupdf/pymupdf4llm)
-- Docling — structure-aware document parsing
-- Marker — PDF-to-structured-text conversion
-- Unstructured — document partitioning and preprocessing
+- PyMuPDF4LLM - Markdown-oriented PDF extraction for LLM and retrieval workflows (https://github.com/pymupdf/pymupdf4llm)
+- Docling — structure-aware document parsing (https://github.com/docling-project/docling)
+- Marker — PDF-to-structured-text conversion (https://github.com/datalab-to/marker)
+- Unstructured — document partitioning and preprocessing (https://github.com/Unstructured-IO/unstructured)
 
 Not every tool provides the same functionality. Part of the project is to investigate the trade-offs between lightweight extraction, specialized extraction, and full document-understanding pipelines.
 
